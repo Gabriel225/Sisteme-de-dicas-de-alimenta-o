@@ -23,5 +23,6 @@ int main(){
                 break;
         }
     }while(a!=3);
+	printf("Teste cmmit 2");
     return 0;
 }
